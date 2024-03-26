@@ -1,4 +1,5 @@
 # Hotel Booking System
+![DEMO](https://i.imgur.com/yWyKpCe.gif)
 
 This is a simple hotel booking system implemented in Python. It uses pandas to manage data and Object-Oriented Programming (OOP) principles to structure the code. (The card authentication was simplified by providing arguments in the functions)
 ## Features
